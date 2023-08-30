@@ -1,0 +1,7904 @@
+{
+	"shamosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shamosaurus"
+	},
+	"pachycephalosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pachycephalosaurus"
+	},
+	"yandusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yandusaurus"
+	},
+	"aepisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aepisaurus"
+	},
+	"peltosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "peltosaurus"
+	},
+	"monkonosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "monkonosaurus"
+	},
+	"protohadros":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "protohadros"
+	},
+	"aristosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aristosaurus"
+	},
+	"xuanhanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xuanhanosaurus"
+	},
+	"dyoplosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dyoplosaurus"
+	},
+	"drusilasaura":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "drusilasaura"
+	},
+	"galvesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "galvesaurus"
+	},
+	"panphagia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "panphagia"
+	},
+	"osmakasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "osmakasaurus"
+	},
+	"stenotholus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "stenotholus"
+	},
+	"agilisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "agilisaurus"
+	},
+	"astrodonius":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "astrodonius"
+	},
+	"sauraechinodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sauraechinodon"
+	},
+	"tataouinea":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tataouinea"
+	},
+	"centemodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "centemodon"
+	},
+	"scaphonyx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "scaphonyx"
+	},
+	"chinshakiangosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chinshakiangosaurus"
+	},
+	"paralititan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "paralititan"
+	},
+	"nodosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nodosaurus"
+	},
+	"stygivenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "stygivenator"
+	},
+	"lanasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lanasaurus"
+	},
+	"eucercosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eucercosaurus"
+	},
+	"camelotia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "camelotia"
+	},
+	"haplocheirus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "haplocheirus"
+	},
+	"sigilmassasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sigilmassasaurus"
+	},
+	"stormbergia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "stormbergia"
+	},
+	"chienkosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chienkosaurus"
+	},
+	"suchomimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "suchomimus"
+	},
+	"mongolosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mongolosaurus"
+	},
+	"hexinlusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hexinlusaurus"
+	},
+	"sanpasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sanpasaurus"
+	},
+	"beipiaosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "beipiaosaurus"
+	},
+	"jingshanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jingshanosaurus"
+	},
+	"australodocus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "australodocus"
+	},
+	"talenkauen":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "talenkauen"
+	},
+	"cryptodraco":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cryptodraco"
+	},
+	"saturnalia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "saturnalia"
+	},
+	"deltadromeus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "deltadromeus"
+	},
+	"xiongguanlong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xiongguanlong"
+	},
+	"cumnoria":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cumnoria"
+	},
+	"mercuriceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mercuriceratops"
+	},
+	"pteropelyx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pteropelyx"
+	},
+	"lagerpeton":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lagerpeton"
+	},
+	"termatosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "termatosaurus"
+	},
+	"mei":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mei"
+	},
+	"martharaptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "martharaptor"
+	},
+	"polacanthus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "polacanthus"
+	},
+	"turiasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "turiasaurus"
+	},
+	"arctosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "arctosaurus"
+	},
+	"prosaurolophus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "prosaurolophus"
+	},
+	"kulceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kulceratops"
+	},
+	"mochlodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mochlodon"
+	},
+	"guanlong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "guanlong"
+	},
+	"qinlingosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "qinlingosaurus"
+	},
+	"elopteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "elopteryx"
+	},
+	"helioceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "helioceratops"
+	},
+	"protarchaeopteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "protarchaeopteryx"
+	},
+	"echinodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "echinodon"
+	},
+	"macrurosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "macrurosaurus"
+	},
+	"koparion":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "koparion"
+	},
+	"arcovenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "arcovenator"
+	},
+	"breviceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "breviceratops"
+	},
+	"aquilops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aquilops"
+	},
+	"vitakrisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "vitakrisaurus"
+	},
+	"daanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "daanosaurus"
+	},
+	"dysalotosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dysalotosaurus"
+	},
+	"pegomastax":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pegomastax"
+	},
+	"rhopalodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rhopalodon"
+	},
+	"animantarx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "animantarx"
+	},
+	"tienshanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tienshanosaurus"
+	},
+	"archaeoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "archaeoceratops"
+	},
+	"crataeomus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "crataeomus"
+	},
+	"yueosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yueosaurus"
+	},
+	"limaysaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "limaysaurus"
+	},
+	"cionodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cionodon"
+	},
+	"barapasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "barapasaurus"
+	},
+	"griphornis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "griphornis"
+	},
+	"cerasinops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cerasinops"
+	},
+	"juravenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "juravenator"
+	},
+	"avalonia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "avalonia"
+	},
+	"pachyrhinosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pachyrhinosaurus"
+	},
+	"hongshanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hongshanosaurus"
+	},
+	"apatodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "apatodon"
+	},
+	"gigantspinosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gigantspinosaurus"
+	},
+	"lexovisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lexovisaurus"
+	},
+	"plateosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "plateosaurus"
+	},
+	"medusaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "medusaceratops"
+	},
+	"blikanasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "blikanasaurus"
+	},
+	"longisquama":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "longisquama"
+	},
+	"siats":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "siats"
+	},
+	"orkoraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "orkoraptor"
+	},
+	"titanoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "titanoceratops"
+	},
+	"wulatelong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "wulatelong"
+	},
+	"koutalisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "koutalisaurus"
+	},
+	"qiupalong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "qiupalong"
+	},
+	"rebbachisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rebbachisaurus"
+	},
+	"velociraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "velociraptor"
+	},
+	"batyrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "batyrosaurus"
+	},
+	"neuquenraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "neuquenraptor"
+	},
+	"limnornis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "limnornis"
+	},
+	"chondrosteosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chondrosteosaurus"
+	},
+	"fruitadens":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "fruitadens"
+	},
+	"huanghetitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "huanghetitan"
+	},
+	"titanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "titanosaurus"
+	},
+	"ostafrikasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ostafrikasaurus"
+	},
+	"beishanlong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "beishanlong"
+	},
+	"ajkaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ajkaceratops"
+	},
+	"olorotitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "olorotitan"
+	},
+	"palaeosauriscus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "palaeosauriscus"
+	},
+	"magnosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "magnosaurus"
+	},
+	"sarcosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sarcosaurus"
+	},
+	"craterosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "craterosaurus"
+	},
+	"erectopus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "erectopus"
+	},
+	"pachysaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pachysaurus"
+	},
+	"zhuchengosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zhuchengosaurus"
+	},
+	"longosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "longosaurus"
+	},
+	"hoplitosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hoplitosaurus"
+	},
+	"plateosauravus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "plateosauravus"
+	},
+	"sauroniops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sauroniops"
+	},
+	"parksosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "parksosaurus"
+	},
+	"protoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "protoceratops"
+	},
+	"hierosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hierosaurus"
+	},
+	"huaxiagnathus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "huaxiagnathus"
+	},
+	"silesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "silesaurus"
+	},
+	"valdosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "valdosaurus"
+	},
+	"tochisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tochisaurus"
+	},
+	"fukuisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "fukuisaurus"
+	},
+	"daemonosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "daemonosaurus"
+	},
+	"linhevenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "linhevenator"
+	},
+	"linhenykus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "linhenykus"
+	},
+	"tanius":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tanius"
+	},
+	"jainosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jainosaurus"
+	},
+	"doratodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "doratodon"
+	},
+	"chialingosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chialingosaurus"
+	},
+	"bicentenaria":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bicentenaria"
+	},
+	"venaticosuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "venaticosuchus"
+	},
+	"bihariosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bihariosaurus"
+	},
+	"barilium":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "barilium"
+	},
+	"rubeosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rubeosaurus"
+	},
+	"pisanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pisanosaurus"
+	},
+	"manospondylus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "manospondylus"
+	},
+	"kritosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kritosaurus"
+	},
+	"stenonychosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "stenonychosaurus"
+	},
+	"succinodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "succinodon"
+	},
+	"jinfengopteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jinfengopteryx"
+	},
+	"elmisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "elmisaurus"
+	},
+	"dinheirosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dinheirosaurus"
+	},
+	"tapuiasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tapuiasaurus"
+	},
+	"protiguanodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "protiguanodon"
+	},
+	"augustia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "augustia"
+	},
+	"dakotadon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dakotadon"
+	},
+	"vulcanodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "vulcanodon"
+	},
+	"anodontosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "anodontosaurus"
+	},
+	"tribelesodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tribelesodon"
+	},
+	"siluosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "siluosaurus"
+	},
+	"ligabuesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ligabuesaurus"
+	},
+	"chubutisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chubutisaurus"
+	},
+	"ajancingenia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ajancingenia"
+	},
+	"amargatitanis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "amargatitanis"
+	},
+	"hallopus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hallopus"
+	},
+	"tachiraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tachiraptor"
+	},
+	"anchiceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "anchiceratops"
+	},
+	"albinykus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "albinykus"
+	},
+	"seitaad":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "seitaad"
+	},
+	"lycorhinus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lycorhinus"
+	},
+	"nemegtosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nemegtosaurus"
+	},
+	"theiophytalia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "theiophytalia"
+	},
+	"conchoraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "conchoraptor"
+	},
+	"natronasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "natronasaurus"
+	},
+	"poposaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "poposaurus"
+	},
+	"leptoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "leptoceratops"
+	},
+	"gastonia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gastonia"
+	},
+	"leptospondylus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "leptospondylus"
+	},
+	"angolatitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "angolatitan"
+	},
+	"penelopognathus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "penelopognathus"
+	},
+	"atlantosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "atlantosaurus"
+	},
+	"hypsibema":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hypsibema"
+	},
+	"zanabazar":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zanabazar"
+	},
+	"chasmosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chasmosaurus"
+	},
+	"postosuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "postosuchus"
+	},
+	"rachitrema":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rachitrema"
+	},
+	"dongyangopelta":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dongyangopelta"
+	},
+	"masiakasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "masiakasaurus"
+	},
+	"lourinhanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lourinhanosaurus"
+	},
+	"sphenosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sphenosaurus"
+	},
+	"giganotosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "giganotosaurus"
+	},
+	"linheraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "linheraptor"
+	},
+	"gojirasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gojirasaurus"
+	},
+	"zuolong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zuolong"
+	},
+	"brachytaenius":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "brachytaenius"
+	},
+	"jiangxisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jiangxisaurus"
+	},
+	"austrocheirus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "austrocheirus"
+	},
+	"histriasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "histriasaurus"
+	},
+	"riojasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "riojasaurus"
+	},
+	"marshosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "marshosaurus"
+	},
+	"saltopus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "saltopus"
+	},
+	"bambiraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bambiraptor"
+	},
+	"kol":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kol"
+	},
+	"ornithodesmus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ornithodesmus"
+	},
+	"huaxiaosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "huaxiaosaurus"
+	},
+	"aorun":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aorun"
+	},
+	"sinotyrannus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sinotyrannus"
+	},
+	"kunmingosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kunmingosaurus"
+	},
+	"elaltitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "elaltitan"
+	},
+	"triceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "triceratops"
+	},
+	"wadhurstia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "wadhurstia"
+	},
+	"ferganasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ferganasaurus"
+	},
+	"nothronychus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nothronychus"
+	},
+	"manidens":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "manidens"
+	},
+	"suuwassea":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "suuwassea"
+	},
+	"borealosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "borealosaurus"
+	},
+	"amtosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "amtosaurus"
+	},
+	"hoplosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hoplosaurus"
+	},
+	"orthomerus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "orthomerus"
+	},
+	"draconyx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "draconyx"
+	},
+	"stokesosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "stokesosaurus"
+	},
+	"caenagnathasia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "caenagnathasia"
+	},
+	"tambatitanis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tambatitanis"
+	},
+	"richardoestesia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "richardoestesia"
+	},
+	"griphosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "griphosaurus"
+	},
+	"gryponyx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gryponyx"
+	},
+	"notoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "notoceratops"
+	},
+	"alwalkeria":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "alwalkeria"
+	},
+	"angaturama":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "angaturama"
+	},
+	"enigmosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "enigmosaurus"
+	},
+	"microhadrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "microhadrosaurus"
+	},
+	"dilong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dilong"
+	},
+	"chingkankousaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chingkankousaurus"
+	},
+	"maxakalisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "maxakalisaurus"
+	},
+	"nyasasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nyasasaurus"
+	},
+	"diamantinasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "diamantinasaurus"
+	},
+	"walgettosuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "walgettosuchus"
+	},
+	"dryosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dryosaurus"
+	},
+	"eosinopteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eosinopteryx"
+	},
+	"zuniceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zuniceratops"
+	},
+	"pelecanimimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pelecanimimus"
+	},
+	"heyuannia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "heyuannia"
+	},
+	"omeisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "omeisaurus"
+	},
+	"atacamatitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "atacamatitan"
+	},
+	"euskelosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "euskelosaurus"
+	},
+	"scolosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "scolosaurus"
+	},
+	"ouranosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ouranosaurus"
+	},
+	"asiamericana":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "asiamericana"
+	},
+	"patagonykus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "patagonykus"
+	},
+	"smilodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "smilodon"
+	},
+	"rukwatitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rukwatitan"
+	},
+	"antrodemus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "antrodemus"
+	},
+	"hortalotarsus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hortalotarsus"
+	},
+	"adasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "adasaurus"
+	},
+	"corythosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "corythosaurus"
+	},
+	"gobisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gobisaurus"
+	},
+	"crosbysaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "crosbysaurus"
+	},
+	"levnesovia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "levnesovia"
+	},
+	"ischyrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ischyrosaurus"
+	},
+	"pinacosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pinacosaurus"
+	},
+	"palaeoscincus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "palaeoscincus"
+	},
+	"thecodontosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "thecodontosaurus"
+	},
+	"eousdryosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eousdryosaurus"
+	},
+	"diceratus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "diceratus"
+	},
+	"jubbulpuria":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jubbulpuria"
+	},
+	"polyodontosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "polyodontosaurus"
+	},
+	"suchosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "suchosaurus"
+	},
+	"serendipaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "serendipaceratops"
+	},
+	"propanoplosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "propanoplosaurus"
+	},
+	"kulindadromeus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kulindadromeus"
+	},
+	"oviraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "oviraptor"
+	},
+	"hypsirophus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hypsirophus"
+	},
+	"zhongornis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zhongornis"
+	},
+	"spinostropheus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "spinostropheus"
+	},
+	"supersaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "supersaurus"
+	},
+	"pachysuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pachysuchus"
+	},
+	"bonitasaura":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bonitasaura"
+	},
+	"rhabdodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rhabdodon"
+	},
+	"daxiatitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "daxiatitan"
+	},
+	"leonerasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "leonerasaurus"
+	},
+	"rhadinosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rhadinosaurus"
+	},
+	"acheroraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "acheroraptor"
+	},
+	"dakosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dakosaurus"
+	},
+	"sauroposeidon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sauroposeidon"
+	},
+	"fusuisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "fusuisaurus"
+	},
+	"muttaburrasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "muttaburrasaurus"
+	},
+	"shunosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shunosaurus"
+	},
+	"aliwalia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aliwalia"
+	},
+	"tsaagan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tsaagan"
+	},
+	"vahiny":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "vahiny"
+	},
+	"darwinsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "darwinsaurus"
+	},
+	"microvenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "microvenator"
+	},
+	"jaklapallisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jaklapallisaurus"
+	},
+	"laelaps":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "laelaps"
+	},
+	"archaeovolans":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "archaeovolans"
+	},
+	"ferganocephale":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ferganocephale"
+	},
+	"ornithotarsus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ornithotarsus"
+	},
+	"quetecsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "quetecsaurus"
+	},
+	"genusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "genusaurus"
+	},
+	"luanchuanraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "luanchuanraptor"
+	},
+	"aucasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aucasaurus"
+	},
+	"tylosteus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tylosteus"
+	},
+	"embasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "embasaurus"
+	},
+	"aniksosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aniksosaurus"
+	},
+	"nambalia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nambalia"
+	},
+	"pawpawsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pawpawsaurus"
+	},
+	"dimodosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dimodosaurus"
+	},
+	"dandakosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dandakosaurus"
+	},
+	"wuerhosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "wuerhosaurus"
+	},
+	"talos":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "talos"
+	},
+	"pectinodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pectinodon"
+	},
+	"dahalokely":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dahalokely"
+	},
+	"lamplughsaura":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lamplughsaura"
+	},
+	"therizinosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "therizinosaurus"
+	},
+	"tianchisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tianchisaurus"
+	},
+	"austroraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "austroraptor"
+	},
+	"marasuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "marasuchus"
+	},
+	"ornithomimoides":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ornithomimoides"
+	},
+	"herbstosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "herbstosaurus"
+	},
+	"alectrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "alectrosaurus"
+	},
+	"byronosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "byronosaurus"
+	},
+	"chirostenotes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chirostenotes"
+	},
+	"xiaotingia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xiaotingia"
+	},
+	"wulagasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "wulagasaurus"
+	},
+	"atlasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "atlasaurus"
+	},
+	"sinornithoides":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sinornithoides"
+	},
+	"concavenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "concavenator"
+	},
+	"scipionyx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "scipionyx"
+	},
+	"bahariasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bahariasaurus"
+	},
+	"camarillasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "camarillasaurus"
+	},
+	"creosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "creosaurus"
+	},
+	"loricosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "loricosaurus"
+	},
+	"othnielia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "othnielia"
+	},
+	"siamodracon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "siamodracon"
+	},
+	"aerosteon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aerosteon"
+	},
+	"kentrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kentrosaurus"
+	},
+	"mendozasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mendozasaurus"
+	},
+	"dasygnathus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dasygnathus"
+	},
+	"riojasuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "riojasuchus"
+	},
+	"gwyneddosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gwyneddosaurus"
+	},
+	"psittacosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "psittacosaurus"
+	},
+	"augustynolophus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "augustynolophus"
+	},
+	"sinopeltosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sinopeltosaurus"
+	},
+	"hesperosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hesperosaurus"
+	},
+	"xenoposeidon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xenoposeidon"
+	},
+	"eucnemesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eucnemesaurus"
+	},
+	"saurophagus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "saurophagus"
+	},
+	"indosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "indosaurus"
+	},
+	"dynamosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dynamosaurus"
+	},
+	"albertosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "albertosaurus"
+	},
+	"uteodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "uteodon"
+	},
+	"charonosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "charonosaurus"
+	},
+	"qianzhousaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "qianzhousaurus"
+	},
+	"asylosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "asylosaurus"
+	},
+	"machairasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "machairasaurus"
+	},
+	"oxalaia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "oxalaia"
+	},
+	"gongbusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gongbusaurus"
+	},
+	"nankangia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nankangia"
+	},
+	"centrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "centrosaurus"
+	},
+	"alaskacephale":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "alaskacephale"
+	},
+	"lusitanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lusitanosaurus"
+	},
+	"abrictosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "abrictosaurus"
+	},
+	"fulgurotherium":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "fulgurotherium"
+	},
+	"velocisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "velocisaurus"
+	},
+	"xinjiangtitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xinjiangtitan"
+	},
+	"dravidosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dravidosaurus"
+	},
+	"niobrarasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "niobrarasaurus"
+	},
+	"stephanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "stephanosaurus"
+	},
+	"baotianmansaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "baotianmansaurus"
+	},
+	"barsboldia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "barsboldia"
+	},
+	"mantellisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mantellisaurus"
+	},
+	"campylodoniscus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "campylodoniscus"
+	},
+	"avisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "avisaurus"
+	},
+	"loricatosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "loricatosaurus"
+	},
+	"tawa":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tawa"
+	},
+	"albertaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "albertaceratops"
+	},
+	"leyesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "leyesaurus"
+	},
+	"teinurosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "teinurosaurus"
+	},
+	"kerberosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kerberosaurus"
+	},
+	"limnosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "limnosaurus"
+	},
+	"avipes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "avipes"
+	},
+	"xinjiangovenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xinjiangovenator"
+	},
+	"ignavusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ignavusaurus"
+	},
+	"microceratus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "microceratus"
+	},
+	"janenschia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "janenschia"
+	},
+	"gongpoquansaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gongpoquansaurus"
+	},
+	"alvarezsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "alvarezsaurus"
+	},
+	"protorosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "protorosaurus"
+	},
+	"gyposaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gyposaurus"
+	},
+	"nanningosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nanningosaurus"
+	},
+	"qingxiusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "qingxiusaurus"
+	},
+	"loncosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "loncosaurus"
+	},
+	"neuquensaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "neuquensaurus"
+	},
+	"karongasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "karongasaurus"
+	},
+	"appalachiosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "appalachiosaurus"
+	},
+	"avalonianus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "avalonianus"
+	},
+	"sanjuansaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sanjuansaurus"
+	},
+	"shanyangosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shanyangosaurus"
+	},
+	"aggiosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aggiosaurus"
+	},
+	"minotaurasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "minotaurasaurus"
+	},
+	"nemegtomaia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nemegtomaia"
+	},
+	"epanterias":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "epanterias"
+	},
+	"ganzhousaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ganzhousaurus"
+	},
+	"thescelosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "thescelosaurus"
+	},
+	"malawisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "malawisaurus"
+	},
+	"majungasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "majungasaurus"
+	},
+	"bagaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bagaceratops"
+	},
+	"colonosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "colonosaurus"
+	},
+	"phuwiangosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "phuwiangosaurus"
+	},
+	"procheneosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "procheneosaurus"
+	},
+	"eolambia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eolambia"
+	},
+	"orodromeus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "orodromeus"
+	},
+	"cryptovolans":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cryptovolans"
+	},
+	"brohisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "brohisaurus"
+	},
+	"kukufeldia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kukufeldia"
+	},
+	"veterupristisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "veterupristisaurus"
+	},
+	"quaesitosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "quaesitosaurus"
+	},
+	"lewisuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lewisuchus"
+	},
+	"gallimimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gallimimus"
+	},
+	"dolichosuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dolichosuchus"
+	},
+	"urbacodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "urbacodon"
+	},
+	"puertasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "puertasaurus"
+	},
+	"picrodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "picrodon"
+	},
+	"sonidosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sonidosaurus"
+	},
+	"albertadromeus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "albertadromeus"
+	},
+	"vectisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "vectisaurus"
+	},
+	"stegopelta":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "stegopelta"
+	},
+	"diracodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "diracodon"
+	},
+	"pterospondylus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pterospondylus"
+	},
+	"zigongosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zigongosaurus"
+	},
+	"priconodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "priconodon"
+	},
+	"paronychodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "paronychodon"
+	},
+	"eomamenchisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eomamenchisaurus"
+	},
+	"vectensia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "vectensia"
+	},
+	"spinophorosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "spinophorosaurus"
+	},
+	"xianshanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xianshanosaurus"
+	},
+	"agnosphitys":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "agnosphitys"
+	},
+	"panguraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "panguraptor"
+	},
+	"shanxia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shanxia"
+	},
+	"staurikosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "staurikosaurus"
+	},
+	"dracovenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dracovenator"
+	},
+	"halticosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "halticosaurus"
+	},
+	"cedrorestes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cedrorestes"
+	},
+	"amazonsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "amazonsaurus"
+	},
+	"futalognkosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "futalognkosaurus"
+	},
+	"proceratosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "proceratosaurus"
+	},
+	"anasazisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "anasazisaurus"
+	},
+	"dracorex":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dracorex"
+	},
+	"archaeodontosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "archaeodontosaurus"
+	},
+	"silvisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "silvisaurus"
+	},
+	"microceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "microceratops"
+	},
+	"maleevus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "maleevus"
+	},
+	"emausaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "emausaurus"
+	},
+	"shaochilong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shaochilong"
+	},
+	"laornis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "laornis"
+	},
+	"brasileosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "brasileosaurus"
+	},
+	"chassternbergia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chassternbergia"
+	},
+	"caseosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "caseosaurus"
+	},
+	"noasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "noasaurus"
+	},
+	"neosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "neosaurus"
+	},
+	"harpymimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "harpymimus"
+	},
+	"pachysaurops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pachysaurops"
+	},
+	"dystylosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dystylosaurus"
+	},
+	"zalmoxes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zalmoxes"
+	},
+	"astrodontaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "astrodontaurus"
+	},
+	"kazaklambia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kazaklambia"
+	},
+	"bactrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bactrosaurus"
+	},
+	"bolong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bolong"
+	},
+	"xiaosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xiaosaurus"
+	},
+	"ornithomerus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ornithomerus"
+	},
+	"rahiolisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rahiolisaurus"
+	},
+	"einiosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "einiosaurus"
+	},
+	"turanoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "turanoceratops"
+	},
+	"rileyasuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rileyasuchus"
+	},
+	"adelolophus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "adelolophus"
+	},
+	"kundurosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kundurosaurus"
+	},
+	"shenzhouraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shenzhouraptor"
+	},
+	"dinotyrannus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dinotyrannus"
+	},
+	"zaraapelta":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zaraapelta"
+	},
+	"cryolophosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cryolophosaurus"
+	},
+	"chindesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chindesaurus"
+	},
+	"tianyuraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tianyuraptor"
+	},
+	"frenguellisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "frenguellisaurus"
+	},
+	"agujaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "agujaceratops"
+	},
+	"chuanqilong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chuanqilong"
+	},
+	"minmi":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "minmi"
+	},
+	"amargastegos":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "amargastegos"
+	},
+	"betasuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "betasuchus"
+	},
+	"yaleosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yaleosaurus"
+	},
+	"yamaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yamaceratops"
+	},
+	"tapinocephalus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tapinocephalus"
+	},
+	"indosuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "indosuchus"
+	},
+	"chromogisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chromogisaurus"
+	},
+	"palaeocursornis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "palaeocursornis"
+	},
+	"hypselosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hypselosaurus"
+	},
+	"aristosuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aristosuchus"
+	},
+	"pradhania":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pradhania"
+	},
+	"overosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "overosaurus"
+	},
+	"claosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "claosaurus"
+	},
+	"protoavis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "protoavis"
+	},
+	"macrodontophion":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "macrodontophion"
+	},
+	"pachyspondylus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pachyspondylus"
+	},
+	"gilmoreosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gilmoreosaurus"
+	},
+	"hylosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hylosaurus"
+	},
+	"ischisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ischisaurus"
+	},
+	"yunganglong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yunganglong"
+	},
+	"bellusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bellusaurus"
+	},
+	"amphicoelias":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "amphicoelias"
+	},
+	"atrociraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "atrociraptor"
+	},
+	"cardiodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cardiodon"
+	},
+	"xenoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xenoceratops"
+	},
+	"ahshislepelta":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ahshislepelta"
+	},
+	"omnivoropteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "omnivoropteryx"
+	},
+	"dromaeosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dromaeosaurus"
+	},
+	"zanclodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zanclodon"
+	},
+	"spinosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "spinosaurus"
+	},
+	"pelorosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pelorosaurus"
+	},
+	"carnotaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "carnotaurus"
+	},
+	"gongxianosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gongxianosaurus"
+	},
+	"amphisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "amphisaurus"
+	},
+	"rinconsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rinconsaurus"
+	},
+	"planicoxa":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "planicoxa"
+	},
+	"colepiocephale":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "colepiocephale"
+	},
+	"hylaeosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hylaeosaurus"
+	},
+	"velocipes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "velocipes"
+	},
+	"torosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "torosaurus"
+	},
+	"sellosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sellosaurus"
+	},
+	"ningyuansaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ningyuansaurus"
+	},
+	"hadrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hadrosaurus"
+	},
+	"galtonia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "galtonia"
+	},
+	"apatosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "apatosaurus"
+	},
+	"majungatholus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "majungatholus"
+	},
+	"tianzhenosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tianzhenosaurus"
+	},
+	"laplatasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "laplatasaurus"
+	},
+	"wellnhoferia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "wellnhoferia"
+	},
+	"europelta":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "europelta"
+	},
+	"lophorhothon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lophorhothon"
+	},
+	"yaverlandia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yaverlandia"
+	},
+	"rhodanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rhodanosaurus"
+	},
+	"hesperonychus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hesperonychus"
+	},
+	"gasosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gasosaurus"
+	},
+	"alxasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "alxasaurus"
+	},
+	"altirhinus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "altirhinus"
+	},
+	"homalocephale":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "homalocephale"
+	},
+	"syngonosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "syngonosaurus"
+	},
+	"montanoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "montanoceratops"
+	},
+	"panoplosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "panoplosaurus"
+	},
+	"tatisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tatisaurus"
+	},
+	"abydosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "abydosaurus"
+	},
+	"ponerosteus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ponerosteus"
+	},
+	"tornieria":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tornieria"
+	},
+	"labrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "labrosaurus"
+	},
+	"argentinosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "argentinosaurus"
+	},
+	"paludititan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "paludititan"
+	},
+	"nemegtia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nemegtia"
+	},
+	"isanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "isanosaurus"
+	},
+	"sinosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sinosaurus"
+	},
+	"dystrophaeus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dystrophaeus"
+	},
+	"tanystrosuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tanystrosuchus"
+	},
+	"caudocoelus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "caudocoelus"
+	},
+	"andesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "andesaurus"
+	},
+	"kinnareemimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kinnareemimus"
+	},
+	"malarguesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "malarguesaurus"
+	},
+	"cristatusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cristatusaurus"
+	},
+	"changyuraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "changyuraptor"
+	},
+	"archaeornis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "archaeornis"
+	},
+	"sinornithomimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sinornithomimus"
+	},
+	"eustreptospondylus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eustreptospondylus"
+	},
+	"alamosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "alamosaurus"
+	},
+	"squalodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "squalodon"
+	},
+	"megadactylus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "megadactylus"
+	},
+	"bonapartenykus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bonapartenykus"
+	},
+	"bruhathkayosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bruhathkayosaurus"
+	},
+	"coelosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "coelosaurus"
+	},
+	"seismosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "seismosaurus"
+	},
+	"hypacrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hypacrosaurus"
+	},
+	"uintasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "uintasaurus"
+	},
+	"paluxysaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "paluxysaurus"
+	},
+	"liliensternus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "liliensternus"
+	},
+	"nasutoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nasutoceratops"
+	},
+	"peishansaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "peishansaurus"
+	},
+	"agrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "agrosaurus"
+	},
+	"euronychodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "euronychodon"
+	},
+	"leptorhynchos":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "leptorhynchos"
+	},
+	"albisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "albisaurus"
+	},
+	"gobipteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gobipteryx"
+	},
+	"wakinosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "wakinosaurus"
+	},
+	"fulengia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "fulengia"
+	},
+	"mussaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mussaurus"
+	},
+	"koreaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "koreaceratops"
+	},
+	"cruxicheiros":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cruxicheiros"
+	},
+	"shanag":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shanag"
+	},
+	"compsosuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "compsosuchus"
+	},
+	"orinosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "orinosaurus"
+	},
+	"rinchenia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rinchenia"
+	},
+	"pareiasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pareiasaurus"
+	},
+	"mymoorapelta":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mymoorapelta"
+	},
+	"archaeopteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "archaeopteryx"
+	},
+	"rajasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rajasaurus"
+	},
+	"nanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nanosaurus"
+	},
+	"lametasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lametasaurus"
+	},
+	"kaatedocus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kaatedocus"
+	},
+	"magyarosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "magyarosaurus"
+	},
+	"austrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "austrosaurus"
+	},
+	"eucoelophysis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eucoelophysis"
+	},
+	"asiatosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "asiatosaurus"
+	},
+	"doryphorosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "doryphorosaurus"
+	},
+	"epidendrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "epidendrosaurus"
+	},
+	"nanshiungosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nanshiungosaurus"
+	},
+	"ozraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ozraptor"
+	},
+	"dashanpusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dashanpusaurus"
+	},
+	"gideonmantellia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gideonmantellia"
+	},
+	"jiangshanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jiangshanosaurus"
+	},
+	"marmarospondylus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "marmarospondylus"
+	},
+	"losillasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "losillasaurus"
+	},
+	"bothriospondylus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bothriospondylus"
+	},
+	"xixiasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xixiasaurus"
+	},
+	"lesothosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lesothosaurus"
+	},
+	"rahona":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rahona"
+	},
+	"gresslyosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gresslyosaurus"
+	},
+	"arenysaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "arenysaurus"
+	},
+	"jianchangosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jianchangosaurus"
+	},
+	"maleevosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "maleevosaurus"
+	},
+	"rapetosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rapetosaurus"
+	},
+	"altispinax":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "altispinax"
+	},
+	"pampadromaeus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pampadromaeus"
+	},
+	"pekinosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pekinosaurus"
+	},
+	"nqwebasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nqwebasaurus"
+	},
+	"mononychus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mononychus"
+	},
+	"amurosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "amurosaurus"
+	},
+	"anatosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "anatosaurus"
+	},
+	"razanandrongobe":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "razanandrongobe"
+	},
+	"othnielosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "othnielosaurus"
+	},
+	"prodeinodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "prodeinodon"
+	},
+	"galveosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "galveosaurus"
+	},
+	"barrosasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "barrosasaurus"
+	},
+	"dinosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dinosaurus"
+	},
+	"aletopelta":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aletopelta"
+	},
+	"suzhousaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "suzhousaurus"
+	},
+	"elrhazosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "elrhazosaurus"
+	},
+	"coelurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "coelurus"
+	},
+	"brachyrophus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "brachyrophus"
+	},
+	"achillesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "achillesaurus"
+	},
+	"gigantoscelus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gigantoscelus"
+	},
+	"hungarosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hungarosaurus"
+	},
+	"clarencea":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "clarencea"
+	},
+	"ruyangosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ruyangosaurus"
+	},
+	"zatomus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zatomus"
+	},
+	"canardia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "canardia"
+	},
+	"zhongyuansaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zhongyuansaurus"
+	},
+	"antarctopelta":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "antarctopelta"
+	},
+	"aachenosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aachenosaurus"
+	},
+	"rahonavis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rahonavis"
+	},
+	"pedopenna":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pedopenna"
+	},
+	"kentrurosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kentrurosaurus"
+	},
+	"heterodontosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "heterodontosaurus"
+	},
+	"xenotarsosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xenotarsosaurus"
+	},
+	"hulsanpes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hulsanpes"
+	},
+	"brachiosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "brachiosaurus"
+	},
+	"zizhongosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zizhongosaurus"
+	},
+	"guaibasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "guaibasaurus"
+	},
+	"chuanjiesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chuanjiesaurus"
+	},
+	"lufengosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lufengosaurus"
+	},
+	"jinzhousaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jinzhousaurus"
+	},
+	"drinker":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "drinker"
+	},
+	"bravoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bravoceratops"
+	},
+	"brachylophosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "brachylophosaurus"
+	},
+	"gobivenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gobivenator"
+	},
+	"coelurosauravus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "coelurosauravus"
+	},
+	"liaoningosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "liaoningosaurus"
+	},
+	"cheneosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cheneosaurus"
+	},
+	"palaeoctonus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "palaeoctonus"
+	},
+	"coeluroides":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "coeluroides"
+	},
+	"pleuropeltus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pleuropeltus"
+	},
+	"baryonyx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "baryonyx"
+	},
+	"ankistrodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ankistrodon"
+	},
+	"sinosauropteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sinosauropteryx"
+	},
+	"shixinggia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shixinggia"
+	},
+	"spinosuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "spinosuchus"
+	},
+	"talarurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "talarurus"
+	},
+	"trinisaura":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "trinisaura"
+	},
+	"neosodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "neosodon"
+	},
+	"leinkupal":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "leinkupal"
+	},
+	"adeopapposaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "adeopapposaurus"
+	},
+	"pleurocoelus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pleurocoelus"
+	},
+	"cathartesaura":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cathartesaura"
+	},
+	"bienosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bienosaurus"
+	},
+	"duriavenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "duriavenator"
+	},
+	"dromiceiomimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dromiceiomimus"
+	},
+	"sinraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sinraptor"
+	},
+	"struthiomimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "struthiomimus"
+	},
+	"jiutaisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jiutaisaurus"
+	},
+	"rocasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rocasaurus"
+	},
+	"polyonax":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "polyonax"
+	},
+	"glyptodontopelta":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "glyptodontopelta"
+	},
+	"notohypsilophodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "notohypsilophodon"
+	},
+	"dasygnathoides":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dasygnathoides"
+	},
+	"herrerasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "herrerasaurus"
+	},
+	"achelousaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "achelousaurus"
+	},
+	"petrobrasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "petrobrasaurus"
+	},
+	"crichtonsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "crichtonsaurus"
+	},
+	"tenontosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tenontosaurus"
+	},
+	"trachodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "trachodon"
+	},
+	"magnapaulia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "magnapaulia"
+	},
+	"oplosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "oplosaurus"
+	},
+	"gryphoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gryphoceratops"
+	},
+	"yunnanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yunnanosaurus"
+	},
+	"prenocephale":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "prenocephale"
+	},
+	"condorraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "condorraptor"
+	},
+	"tarascosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tarascosaurus"
+	},
+	"pukyongosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pukyongosaurus"
+	},
+	"daspletosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "daspletosaurus"
+	},
+	"sinovenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sinovenator"
+	},
+	"caudipteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "caudipteryx"
+	},
+	"euoplocephalus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "euoplocephalus"
+	},
+	"hexing":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hexing"
+	},
+	"dracopelta":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dracopelta"
+	},
+	"campylodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "campylodon"
+	},
+	"jurapteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jurapteryx"
+	},
+	"jobaria":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jobaria"
+	},
+	"sinusonasus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sinusonasus"
+	},
+	"anthodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "anthodon"
+	},
+	"jaxartosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jaxartosaurus"
+	},
+	"jixiangornis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jixiangornis"
+	},
+	"erlikosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "erlikosaurus"
+	},
+	"dongyangosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dongyangosaurus"
+	},
+	"kotasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kotasaurus"
+	},
+	"barosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "barosaurus"
+	},
+	"tichosteus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tichosteus"
+	},
+	"deuterosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "deuterosaurus"
+	},
+	"gobiceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gobiceratops"
+	},
+	"bainoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bainoceratops"
+	},
+	"kangnasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kangnasaurus"
+	},
+	"sellacoxa":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sellacoxa"
+	},
+	"oligosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "oligosaurus"
+	},
+	"lythronax":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lythronax"
+	},
+	"tylocephale":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tylocephale"
+	},
+	"pneumatoarthrus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pneumatoarthrus"
+	},
+	"graciliraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "graciliraptor"
+	},
+	"zby":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zby"
+	},
+	"struthiosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "struthiosaurus"
+	},
+	"abelisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "abelisaurus"
+	},
+	"mirischia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mirischia"
+	},
+	"stygimoloch":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "stygimoloch"
+	},
+	"ultrasauros":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ultrasauros"
+	},
+	"plesiohadros":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "plesiohadros"
+	},
+	"antarctosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "antarctosaurus"
+	},
+	"algoasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "algoasaurus"
+	},
+	"normanniasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "normanniasaurus"
+	},
+	"lapampasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lapampasaurus"
+	},
+	"sciurumimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sciurumimus"
+	},
+	"tsagantegia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tsagantegia"
+	},
+	"lourinhasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lourinhasaurus"
+	},
+	"leipsanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "leipsanosaurus"
+	},
+	"diplodocus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "diplodocus"
+	},
+	"tecovasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tecovasaurus"
+	},
+	"siamotyrannus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "siamotyrannus"
+	},
+	"aviatyrannis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aviatyrannis"
+	},
+	"anabisetia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "anabisetia"
+	},
+	"geranosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "geranosaurus"
+	},
+	"styracosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "styracosaurus"
+	},
+	"zhuchengceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zhuchengceratops"
+	},
+	"koreanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "koreanosaurus"
+	},
+	"glishades":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "glishades"
+	},
+	"falcarius":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "falcarius"
+	},
+	"compsognathus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "compsognathus"
+	},
+	"arcusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "arcusaurus"
+	},
+	"banji":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "banji"
+	},
+	"walkeria":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "walkeria"
+	},
+	"huxleysaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "huxleysaurus"
+	},
+	"epicampodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "epicampodon"
+	},
+	"avaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "avaceratops"
+	},
+	"pitekunsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pitekunsaurus"
+	},
+	"rhinorex":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rhinorex"
+	},
+	"kemkemia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kemkemia"
+	},
+	"lophostropheus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lophostropheus"
+	},
+	"texasetes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "texasetes"
+	},
+	"argyrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "argyrosaurus"
+	},
+	"stenopelix":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "stenopelix"
+	},
+	"lurdusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lurdusaurus"
+	},
+	"sahaliyania":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sahaliyania"
+	},
+	"arizonasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "arizonasaurus"
+	},
+	"chebsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chebsaurus"
+	},
+	"lusotitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lusotitan"
+	},
+	"dollodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dollodon"
+	},
+	"eucamerotus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eucamerotus"
+	},
+	"gargoyleosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gargoyleosaurus"
+	},
+	"atsinganosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "atsinganosaurus"
+	},
+	"andhrasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "andhrasaurus"
+	},
+	"haplocanthus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "haplocanthus"
+	},
+	"taveirosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "taveirosaurus"
+	},
+	"variraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "variraptor"
+	},
+	"orosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "orosaurus"
+	},
+	"pararhabdodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pararhabdodon"
+	},
+	"piveteausaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "piveteausaurus"
+	},
+	"nanyangosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nanyangosaurus"
+	},
+	"elachistosuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "elachistosuchus"
+	},
+	"lapparentosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lapparentosaurus"
+	},
+	"protognathosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "protognathosaurus"
+	},
+	"ugrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ugrosaurus"
+	},
+	"pantydraco":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pantydraco"
+	},
+	"morinosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "morinosaurus"
+	},
+	"cladeiodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cladeiodon"
+	},
+	"monoclonius":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "monoclonius"
+	},
+	"dacentrurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dacentrurus"
+	},
+	"pakisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pakisaurus"
+	},
+	"irritator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "irritator"
+	},
+	"sulaimanisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sulaimanisaurus"
+	},
+	"bathygnathus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bathygnathus"
+	},
+	"nebulasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nebulasaurus"
+	},
+	"saurornitholestes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "saurornitholestes"
+	},
+	"efraasia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "efraasia"
+	},
+	"sarahsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sarahsaurus"
+	},
+	"torilion":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "torilion"
+	},
+	"massospondylus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "massospondylus"
+	},
+	"tugulusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tugulusaurus"
+	},
+	"lambeosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lambeosaurus"
+	},
+	"fabrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "fabrosaurus"
+	},
+	"gasparinisaura":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gasparinisaura"
+	},
+	"ceratonykus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ceratonykus"
+	},
+	"zephyrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zephyrosaurus"
+	},
+	"coronosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "coronosaurus"
+	},
+	"dreadnoughtus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dreadnoughtus"
+	},
+	"zhejiangosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zhejiangosaurus"
+	},
+	"spinops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "spinops"
+	},
+	"eotyrannus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eotyrannus"
+	},
+	"aegyptosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aegyptosaurus"
+	},
+	"hagryphus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hagryphus"
+	},
+	"itemirus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "itemirus"
+	},
+	"citipati":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "citipati"
+	},
+	"shenzhousaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shenzhousaurus"
+	},
+	"eoplophysis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eoplophysis"
+	},
+	"duriatitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "duriatitan"
+	},
+	"gondwanatitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gondwanatitan"
+	},
+	"eoabelisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eoabelisaurus"
+	},
+	"tastavinsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tastavinsaurus"
+	},
+	"philovenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "philovenator"
+	},
+	"willinakaqe":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "willinakaqe"
+	},
+	"yongjinglong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yongjinglong"
+	},
+	"fukuititan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "fukuititan"
+	},
+	"prenoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "prenoceratops"
+	},
+	"kosmoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kosmoceratops"
+	},
+	"monolophosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "monolophosaurus"
+	},
+	"ornithosuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ornithosuchus"
+	},
+	"shuvosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shuvosaurus"
+	},
+	"polacanthoides":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "polacanthoides"
+	},
+	"azendohsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "azendohsaurus"
+	},
+	"blasisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "blasisaurus"
+	},
+	"eocarcharia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eocarcharia"
+	},
+	"naashoibitosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "naashoibitosaurus"
+	},
+	"eshanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eshanosaurus"
+	},
+	"ruehleia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ruehleia"
+	},
+	"nuthetes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nuthetes"
+	},
+	"syrmosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "syrmosaurus"
+	},
+	"bradycneme":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bradycneme"
+	},
+	"pentaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pentaceratops"
+	},
+	"dysganus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dysganus"
+	},
+	"sinornithosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sinornithosaurus"
+	},
+	"microraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "microraptor"
+	},
+	"graciliceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "graciliceratops"
+	},
+	"megaraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "megaraptor"
+	},
+	"shanshanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shanshanosaurus"
+	},
+	"erliansaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "erliansaurus"
+	},
+	"amygdalodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "amygdalodon"
+	},
+	"parrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "parrosaurus"
+	},
+	"heptasteornis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "heptasteornis"
+	},
+	"shuvuuia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shuvuuia"
+	},
+	"kayentavenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kayentavenator"
+	},
+	"antetonitrus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "antetonitrus"
+	},
+	"laevisuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "laevisuchus"
+	},
+	"ratchasimasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ratchasimasaurus"
+	},
+	"teyuwasu":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "teyuwasu"
+	},
+	"albalophosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "albalophosaurus"
+	},
+	"jeholornis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jeholornis"
+	},
+	"heterosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "heterosaurus"
+	},
+	"dromaeosauroides":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dromaeosauroides"
+	},
+	"diclonius":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "diclonius"
+	},
+	"therosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "therosaurus"
+	},
+	"mononykus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mononykus"
+	},
+	"rhoetosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rhoetosaurus"
+	},
+	"lirainosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lirainosaurus"
+	},
+	"agathaumas":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "agathaumas"
+	},
+	"yurgovuchia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yurgovuchia"
+	},
+	"scleromochlus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "scleromochlus"
+	},
+	"anatotitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "anatotitan"
+	},
+	"microcoelus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "microcoelus"
+	},
+	"becklespinax":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "becklespinax"
+	},
+	"danubiosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "danubiosaurus"
+	},
+	"tarbosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tarbosaurus"
+	},
+	"comahuesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "comahuesaurus"
+	},
+	"opisthocoelicaudia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "opisthocoelicaudia"
+	},
+	"acristavus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "acristavus"
+	},
+	"eocursor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eocursor"
+	},
+	"chuxiongosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chuxiongosaurus"
+	},
+	"chiayusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chiayusaurus"
+	},
+	"telmatosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "telmatosaurus"
+	},
+	"proceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "proceratops"
+	},
+	"kuszholia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kuszholia"
+	},
+	"calamosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "calamosaurus"
+	},
+	"tendaguria":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tendaguria"
+	},
+	"vagaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "vagaceratops"
+	},
+	"tyrannotitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tyrannotitan"
+	},
+	"eucentrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eucentrosaurus"
+	},
+	"arstanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "arstanosaurus"
+	},
+	"xuanhuaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xuanhuaceratops"
+	},
+	"huayangosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "huayangosaurus"
+	},
+	"laquintasaura":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "laquintasaura"
+	},
+	"astrophocaudia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "astrophocaudia"
+	},
+	"segisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "segisaurus"
+	},
+	"patagosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "patagosaurus"
+	},
+	"leaellynasaura":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "leaellynasaura"
+	},
+	"bistahieversor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bistahieversor"
+	},
+	"neimongosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "neimongosaurus"
+	},
+	"arkharavia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "arkharavia"
+	},
+	"timimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "timimus"
+	},
+	"haya":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "haya"
+	},
+	"platyceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "platyceratops"
+	},
+	"trimucrodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "trimucrodon"
+	},
+	"deinonychus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "deinonychus"
+	},
+	"archaeornithomimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "archaeornithomimus"
+	},
+	"mahakala":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mahakala"
+	},
+	"sauroplites":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sauroplites"
+	},
+	"umarsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "umarsaurus"
+	},
+	"galesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "galesaurus"
+	},
+	"heishansaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "heishansaurus"
+	},
+	"katepensaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "katepensaurus"
+	},
+	"europasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "europasaurus"
+	},
+	"amargasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "amargasaurus"
+	},
+	"gigantoraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gigantoraptor"
+	},
+	"astrodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "astrodon"
+	},
+	"stegosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "stegosaurus"
+	},
+	"eupodosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eupodosaurus"
+	},
+	"bonatitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bonatitan"
+	},
+	"camposaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "camposaurus"
+	},
+	"labocania":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "labocania"
+	},
+	"mantellodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mantellodon"
+	},
+	"hecatasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hecatasaurus"
+	},
+	"dalianraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dalianraptor"
+	},
+	"unquillosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "unquillosaurus"
+	},
+	"onychosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "onychosaurus"
+	},
+	"zapalasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zapalasaurus"
+	},
+	"anchiornis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "anchiornis"
+	},
+	"caulodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "caulodon"
+	},
+	"cetiosauriscus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cetiosauriscus"
+	},
+	"liubangosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "liubangosaurus"
+	},
+	"protognathus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "protognathus"
+	},
+	"saurolophus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "saurolophus"
+	},
+	"paranthodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "paranthodon"
+	},
+	"afrovenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "afrovenator"
+	},
+	"calamospondylus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "calamospondylus"
+	},
+	"hippodraco":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hippodraco"
+	},
+	"epachthosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "epachthosaurus"
+	},
+	"kakuru":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kakuru"
+	},
+	"sinocoelurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sinocoelurus"
+	},
+	"bugenasaura":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bugenasaura"
+	},
+	"ichthyovenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ichthyovenator"
+	},
+	"kelmayisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kelmayisaurus"
+	},
+	"jintasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jintasaurus"
+	},
+	"borogovia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "borogovia"
+	},
+	"parvicursor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "parvicursor"
+	},
+	"brachytrachelopan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "brachytrachelopan"
+	},
+	"dyslocosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dyslocosaurus"
+	},
+	"camptonotus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "camptonotus"
+	},
+	"garudimimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "garudimimus"
+	},
+	"uberabatitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "uberabatitan"
+	},
+	"denversaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "denversaurus"
+	},
+	"pycnonemosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pycnonemosaurus"
+	},
+	"avimimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "avimimus"
+	},
+	"balaur":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "balaur"
+	},
+	"allosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "allosaurus"
+	},
+	"rapator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rapator"
+	},
+	"genyodectes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "genyodectes"
+	},
+	"traukutitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "traukutitan"
+	},
+	"saldamosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "saldamosaurus"
+	},
+	"nanotyrannus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nanotyrannus"
+	},
+	"valdoraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "valdoraptor"
+	},
+	"tetragonosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tetragonosaurus"
+	},
+	"yixianosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yixianosaurus"
+	},
+	"ligabueino":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ligabueino"
+	},
+	"volkheimeria":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "volkheimeria"
+	},
+	"cathetosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cathetosaurus"
+	},
+	"paleosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "paleosaurus"
+	},
+	"melanorosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "melanorosaurus"
+	},
+	"scansoriopteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "scansoriopteryx"
+	},
+	"fukuiraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "fukuiraptor"
+	},
+	"bissektipelta":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bissektipelta"
+	},
+	"chungkingosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chungkingosaurus"
+	},
+	"eotriceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eotriceratops"
+	},
+	"jeholosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jeholosaurus"
+	},
+	"xixianykus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xixianykus"
+	},
+	"iguanodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "iguanodon"
+	},
+	"camptosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "camptosaurus"
+	},
+	"procompsognathus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "procompsognathus"
+	},
+	"mapusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mapusaurus"
+	},
+	"revueltosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "revueltosaurus"
+	},
+	"dongbeititan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dongbeititan"
+	},
+	"coahuilaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "coahuilaceratops"
+	},
+	"daurosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "daurosaurus"
+	},
+	"eoraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eoraptor"
+	},
+	"achillobator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "achillobator"
+	},
+	"tsintaosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tsintaosaurus"
+	},
+	"yangchuanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yangchuanosaurus"
+	},
+	"cryptosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cryptosaurus"
+	},
+	"carcharodontosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "carcharodontosaurus"
+	},
+	"udanoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "udanoceratops"
+	},
+	"cedarosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cedarosaurus"
+	},
+	"ornithopsis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ornithopsis"
+	},
+	"balochisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "balochisaurus"
+	},
+	"thecospondylus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "thecospondylus"
+	},
+	"diplotomodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "diplotomodon"
+	},
+	"anchisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "anchisaurus"
+	},
+	"trigonosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "trigonosaurus"
+	},
+	"yimenosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yimenosaurus"
+	},
+	"ultrasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ultrasaurus"
+	},
+	"ammosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ammosaurus"
+	},
+	"ilokelesia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ilokelesia"
+	},
+	"nodocephalosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nodocephalosaurus"
+	},
+	"helopus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "helopus"
+	},
+	"datanglong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "datanglong"
+	},
+	"aurornis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aurornis"
+	},
+	"megalosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "megalosaurus"
+	},
+	"mojoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mojoceratops"
+	},
+	"sinoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sinoceratops"
+	},
+	"krzyzanowskisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "krzyzanowskisaurus"
+	},
+	"nigersaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nigersaurus"
+	},
+	"dilophosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dilophosaurus"
+	},
+	"craspedodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "craspedodon"
+	},
+	"xuwulong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xuwulong"
+	},
+	"epidexipteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "epidexipteryx"
+	},
+	"alioramus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "alioramus"
+	},
+	"symphyrophus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "symphyrophus"
+	},
+	"thecocoelurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "thecocoelurus"
+	},
+	"kryptops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kryptops"
+	},
+	"torvosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "torvosaurus"
+	},
+	"auroraceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "auroraceratops"
+	},
+	"hypsilophodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hypsilophodon"
+	},
+	"yutyrannus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yutyrannus"
+	},
+	"rileya":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rileya"
+	},
+	"laosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "laosaurus"
+	},
+	"deinodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "deinodon"
+	},
+	"dryptosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dryptosaurus"
+	},
+	"podokesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "podokesaurus"
+	},
+	"owenodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "owenodon"
+	},
+	"maiasaura":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "maiasaura"
+	},
+	"phyllodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "phyllodon"
+	},
+	"bagaraatan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "bagaraatan"
+	},
+	"clasmodosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "clasmodosaurus"
+	},
+	"elaphrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "elaphrosaurus"
+	},
+	"nopcsaspondylus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nopcsaspondylus"
+	},
+	"eoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eoceratops"
+	},
+	"huehuecanauhtlus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "huehuecanauhtlus"
+	},
+	"macrophalangia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "macrophalangia"
+	},
+	"tyrannosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tyrannosaurus"
+	},
+	"qantassaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "qantassaurus"
+	},
+	"sphaerotholus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sphaerotholus"
+	},
+	"klamelisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "klamelisaurus"
+	},
+	"utahceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "utahceratops"
+	},
+	"lamaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lamaceratops"
+	},
+	"nipponosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nipponosaurus"
+	},
+	"ceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ceratops"
+	},
+	"troodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "troodon"
+	},
+	"ampelosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ampelosaurus"
+	},
+	"aetonyx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aetonyx"
+	},
+	"glacialisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "glacialisaurus"
+	},
+	"stegoceras":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "stegoceras"
+	},
+	"atlascopcosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "atlascopcosaurus"
+	},
+	"geminiraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "geminiraptor"
+	},
+	"hudiesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hudiesaurus"
+	},
+	"huabeisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "huabeisaurus"
+	},
+	"unenlagia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "unenlagia"
+	},
+	"narambuenatitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "narambuenatitan"
+	},
+	"elosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "elosaurus"
+	},
+	"miragaia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "miragaia"
+	},
+	"lucianosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lucianosaurus"
+	},
+	"amtocephale":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "amtocephale"
+	},
+	"nanuqsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nanuqsaurus"
+	},
+	"streptospondylus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "streptospondylus"
+	},
+	"teratosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "teratosaurus"
+	},
+	"tuojiangosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tuojiangosaurus"
+	},
+	"callovosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "callovosaurus"
+	},
+	"aragosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aragosaurus"
+	},
+	"ornatotholus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ornatotholus"
+	},
+	"sarcolestes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sarcolestes"
+	},
+	"yingshanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yingshanosaurus"
+	},
+	"didanodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "didanodon"
+	},
+	"chaoyangsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chaoyangsaurus"
+	},
+	"sterrholophus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sterrholophus"
+	},
+	"proa":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "proa"
+	},
+	"peloroplites":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "peloroplites"
+	},
+	"lanzhousaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lanzhousaurus"
+	},
+	"pseudolagosuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pseudolagosuchus"
+	},
+	"stegosaurides":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "stegosaurides"
+	},
+	"brontosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "brontosaurus"
+	},
+	"wyleyia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "wyleyia"
+	},
+	"acrotholus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "acrotholus"
+	},
+	"gryposaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gryposaurus"
+	},
+	"rioarribasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rioarribasaurus"
+	},
+	"ceratosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ceratosaurus"
+	},
+	"anserimimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "anserimimus"
+	},
+	"tatankacephalus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tatankacephalus"
+	},
+	"pamparaptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pamparaptor"
+	},
+	"wannanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "wannanosaurus"
+	},
+	"morosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "morosaurus"
+	},
+	"metriacanthosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "metriacanthosaurus"
+	},
+	"belodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "belodon"
+	},
+	"aublysodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aublysodon"
+	},
+	"edmontosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "edmontosaurus"
+	},
+	"tatankaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tatankaceratops"
+	},
+	"isisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "isisaurus"
+	},
+	"oryctodromeus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "oryctodromeus"
+	},
+	"oohkotokia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "oohkotokia"
+	},
+	"aeolosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aeolosaurus"
+	},
+	"pellegrinisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pellegrinisaurus"
+	},
+	"ojoraptorsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ojoraptorsaurus"
+	},
+	"regnosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "regnosaurus"
+	},
+	"cetiosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cetiosaurus"
+	},
+	"diceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "diceratops"
+	},
+	"zupaysaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zupaysaurus"
+	},
+	"eodromaeus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eodromaeus"
+	},
+	"nedoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nedoceratops"
+	},
+	"ekrixinatosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ekrixinatosaurus"
+	},
+	"zhanghenglong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zhanghenglong"
+	},
+	"albertonykus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "albertonykus"
+	},
+	"unaysaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "unaysaurus"
+	},
+	"brachypodosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "brachypodosaurus"
+	},
+	"huangshanlong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "huangshanlong"
+	},
+	"agustinia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "agustinia"
+	},
+	"acrocanthosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "acrocanthosaurus"
+	},
+	"tarchia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tarchia"
+	},
+	"ornitholestes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ornitholestes"
+	},
+	"rugops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rugops"
+	},
+	"edmarka":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "edmarka"
+	},
+	"kaijiangosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kaijiangosaurus"
+	},
+	"proplanicoxa":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "proplanicoxa"
+	},
+	"coloradisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "coloradisaurus"
+	},
+	"macrogryphosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "macrogryphosaurus"
+	},
+	"iliosuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "iliosuchus"
+	},
+	"lessemsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lessemsaurus"
+	},
+	"judiceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "judiceratops"
+	},
+	"saurornithoides":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "saurornithoides"
+	},
+	"saichania":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "saichania"
+	},
+	"tonganosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tonganosaurus"
+	},
+	"pneumatoraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pneumatoraptor"
+	},
+	"qiaowanlong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "qiaowanlong"
+	},
+	"alocodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "alocodon"
+	},
+	"asiaceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "asiaceratops"
+	},
+	"mamenchisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mamenchisaurus"
+	},
+	"juratyrant":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "juratyrant"
+	},
+	"cedarpelta":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "cedarpelta"
+	},
+	"nomingia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nomingia"
+	},
+	"procerosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "procerosaurus"
+	},
+	"thespesius":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "thespesius"
+	},
+	"sacisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sacisaurus"
+	},
+	"spondylosoma":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "spondylosoma"
+	},
+	"angulomastacator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "angulomastacator"
+	},
+	"syntarsus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "syntarsus"
+	},
+	"jenghizkhan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jenghizkhan"
+	},
+	"incisivosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "incisivosaurus"
+	},
+	"ornithomimus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ornithomimus"
+	},
+	"erketu":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "erketu"
+	},
+	"eurolimnornis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eurolimnornis"
+	},
+	"texacephale":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "texacephale"
+	},
+	"luoyanggia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "luoyanggia"
+	},
+	"dicraeosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dicraeosaurus"
+	},
+	"probactrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "probactrosaurus"
+	},
+	"anzu":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "anzu"
+	},
+	"strenusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "strenusaurus"
+	},
+	"brachyceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "brachyceratops"
+	},
+	"wintonotitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "wintonotitan"
+	},
+	"magnirostris":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "magnirostris"
+	},
+	"siamosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "siamosaurus"
+	},
+	"sauropelta":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sauropelta"
+	},
+	"caenagnathus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "caenagnathus"
+	},
+	"brasilotitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "brasilotitan"
+	},
+	"segnosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "segnosaurus"
+	},
+	"kileskus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kileskus"
+	},
+	"inosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "inosaurus"
+	},
+	"anoplosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "anoplosaurus"
+	},
+	"gorgosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gorgosaurus"
+	},
+	"coelophysis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "coelophysis"
+	},
+	"diabloceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "diabloceratops"
+	},
+	"edmontonia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "edmontonia"
+	},
+	"tehuelchesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tehuelchesaurus"
+	},
+	"tomodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tomodon"
+	},
+	"brontomerus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "brontomerus"
+	},
+	"gobititan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gobititan"
+	},
+	"dryptosauroides":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dryptosauroides"
+	},
+	"limusaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "limusaurus"
+	},
+	"zapsalis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zapsalis"
+	},
+	"leshansaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "leshansaurus"
+	},
+	"jiangjunosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jiangjunosaurus"
+	},
+	"clepsysaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "clepsysaurus"
+	},
+	"similicaudipteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "similicaudipteryx"
+	},
+	"piatnitzkysaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "piatnitzkysaurus"
+	},
+	"megapnosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "megapnosaurus"
+	},
+	"tethyshadros":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tethyshadros"
+	},
+	"australovenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "australovenator"
+	},
+	"scutellosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "scutellosaurus"
+	},
+	"utahraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "utahraptor"
+	},
+	"ohmdenosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ohmdenosaurus"
+	},
+	"skorpiovenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "skorpiovenator"
+	},
+	"triassolestes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "triassolestes"
+	},
+	"adamantisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "adamantisaurus"
+	},
+	"gracilisuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gracilisuchus"
+	},
+	"velafrons":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "velafrons"
+	},
+	"dromicosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dromicosaurus"
+	},
+	"kulindapteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "kulindapteryx"
+	},
+	"aralosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "aralosaurus"
+	},
+	"dianchungosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dianchungosaurus"
+	},
+	"tianyulong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tianyulong"
+	},
+	"vitakridrinda":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "vitakridrinda"
+	},
+	"orthogoniosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "orthogoniosaurus"
+	},
+	"changchunsaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "changchunsaurus"
+	},
+	"gannansaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gannansaurus"
+	},
+	"pachysauriscus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pachysauriscus"
+	},
+	"euhelopus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "euhelopus"
+	},
+	"latirhinus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "latirhinus"
+	},
+	"hypselospinus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hypselospinus"
+	},
+	"alnashetri":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "alnashetri"
+	},
+	"buitreraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "buitreraptor"
+	},
+	"sphenospondylus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sphenospondylus"
+	},
+	"berberosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "berberosaurus"
+	},
+	"chilantaisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chilantaisaurus"
+	},
+	"suchoprion":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "suchoprion"
+	},
+	"macelognathus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "macelognathus"
+	},
+	"datousaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "datousaurus"
+	},
+	"omosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "omosaurus"
+	},
+	"unescoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "unescoceratops"
+	},
+	"palaeopteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "palaeopteryx"
+	},
+	"panamericansaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "panamericansaurus"
+	},
+	"dinodocus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dinodocus"
+	},
+	"palaeosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "palaeosaurus"
+	},
+	"poekilopleuron":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "poekilopleuron"
+	},
+	"pyroraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "pyroraptor"
+	},
+	"teratophoneus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "teratophoneus"
+	},
+	"giraffatitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "giraffatitan"
+	},
+	"iguanacolossus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "iguanacolossus"
+	},
+	"chuandongocoelurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "chuandongocoelurus"
+	},
+	"dubreuillosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "dubreuillosaurus"
+	},
+	"protecovasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "protecovasaurus"
+	},
+	"yinlong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yinlong"
+	},
+	"tawasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tawasaurus"
+	},
+	"trialestes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "trialestes"
+	},
+	"coloradia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "coloradia"
+	},
+	"szechuanosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "szechuanosaurus"
+	},
+	"technosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "technosaurus"
+	},
+	"taohelong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "taohelong"
+	},
+	"parasaurolophus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "parasaurolophus"
+	},
+	"equijubus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "equijubus"
+	},
+	"sonorasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sonorasaurus"
+	},
+	"shuangmiaosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shuangmiaosaurus"
+	},
+	"muyelensaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "muyelensaurus"
+	},
+	"saurophaganax":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "saurophaganax"
+	},
+	"scelidosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "scelidosaurus"
+	},
+	"neovenator":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "neovenator"
+	},
+	"tanycolagreus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tanycolagreus"
+	},
+	"iuticosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "iuticosaurus"
+	},
+	"jeyawati":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "jeyawati"
+	},
+	"nedcolbertia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nedcolbertia"
+	},
+	"hanssuesia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hanssuesia"
+	},
+	"lukousaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lukousaurus"
+	},
+	"gigantosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gigantosaurus"
+	},
+	"arrhinoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "arrhinoceratops"
+	},
+	"shidaisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shidaisaurus"
+	},
+	"micropachycephalosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "micropachycephalosaurus"
+	},
+	"stereocephalus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "stereocephalus"
+	},
+	"ojoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ojoceratops"
+	},
+	"shantungosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "shantungosaurus"
+	},
+	"sinocalliopteryx":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "sinocalliopteryx"
+	},
+	"venenosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "venenosaurus"
+	},
+	"nectosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "nectosaurus"
+	},
+	"goyocephale":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "goyocephale"
+	},
+	"saltasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "saltasaurus"
+	},
+	"xixiposaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "xixiposaurus"
+	},
+	"ferganastegos":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ferganastegos"
+	},
+	"siamodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "siamodon"
+	},
+	"quilmesaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "quilmesaurus"
+	},
+	"archaeornithoides":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "archaeornithoides"
+	},
+	"rayososaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "rayososaurus"
+	},
+	"priodontognathus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "priodontognathus"
+	},
+	"tangvayosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tangvayosaurus"
+	},
+	"epichirostenotes":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "epichirostenotes"
+	},
+	"secernosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "secernosaurus"
+	},
+	"delapparentia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "delapparentia"
+	},
+	"tazoudasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tazoudasaurus"
+	},
+	"santanaraptor":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "santanaraptor"
+	},
+	"abrosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "abrosaurus"
+	},
+	"demandasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "demandasaurus"
+	},
+	"liaoceratops":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "liaoceratops"
+	},
+	"raptorex":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "raptorex"
+	},
+	"baurutitan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "baurutitan"
+	},
+	"basutodon":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "basutodon"
+	},
+	"claorhynchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "claorhynchus"
+	},
+	"eobrontosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "eobrontosaurus"
+	},
+	"zhuchengtyrannus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "zhuchengtyrannus"
+	},
+	"tanystropheus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "tanystropheus"
+	},
+	"lagosuchus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lagosuchus"
+	},
+	"acanthopholis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "acanthopholis"
+	},
+	"yuanmousaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yuanmousaurus"
+	},
+	"hypselorhachis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "hypselorhachis"
+	},
+	"lisboasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "lisboasaurus"
+	},
+	"yanornis":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yanornis"
+	},
+	"yulong":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "yulong"
+	},
+	"khetranisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "khetranisaurus"
+	},
+	"gravitholus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "gravitholus"
+	},
+	"libycosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "libycosaurus"
+	},
+	"phaedrolosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "phaedrolosaurus"
+	},
+	"deinocheirus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "deinocheirus"
+	},
+	"haplocanthosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "haplocanthosaurus"
+	},
+	"marisaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "marisaurus"
+	},
+	"actiosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "actiosaurus"
+	},
+	"ingenia":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ingenia"
+	},
+	"ankylosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ankylosaurus"
+	},
+	"mandschurosaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "mandschurosaurus"
+	},
+	"camarasaurus":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "camarasaurus"
+	},
+	"khaan":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "khaan"
+	},
+	"ziapelta":
+	{
+		"period": "Jurassic",
+		"caught": false,
+		"name": "ziapelta"
+	}
+}
